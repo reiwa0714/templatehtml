@@ -1,8 +1,4 @@
-body {
-  font-family: "Poppins", sans-serif;
-  color: #0c0c0c;
-  background-color: #ffffff;
-}
+body { background-color: #f4f4f4 !important; }
 
 .layout_padding {
   padding: 75px 0;
