@@ -470,7 +470,7 @@ h1 {
   width: 100%;
   margin-top: 35px;
 }
-
+input:focus { border: 2px solid #f07b26 !important; outline: none; }
 .map_section .form_container button:hover {
   background-color: transparent;
   color: #023b48;
