@@ -32,6 +32,7 @@ p {
 .custom_heading {
   color: #030404;
 }
+.custom_heading { text-align: center; margin-bottom: 40px; }
 
 .custom_heading span {
   color: #21d7ff;
