@@ -294,9 +294,8 @@ h1 {
           align-items: center;
 }
 
-.service_section .img_box img {
-  width: 45px;
-}
+.service_section .img_box { background-color: #fff4ed; border-radius: 50%; }
+
 
 .service_section .detail_box {
   margin-top: 25px;
