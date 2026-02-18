@@ -3,7 +3,7 @@ body { background-color: #008cff !important; }
 p {
   color: #333333 !important;
   line-height: 1.6;
-  margin-bottom: 15px;
+  margin-bottom:  15px;
 }
 .layout_padding {
   padding: 75px 0;
@@ -140,12 +140,7 @@ a:focus {
   margin-right: 5px;
 }
 
-.navbar-brand span {
-  font-size: 20px;
-  font-weight: 700;
-  color: #191919;
-  margin-top: 5px;
-}
+.navbar-brand span { font-weight: 800; color: #f07b26; }
 
 .custom_nav-container {
   z-index: 99999;
