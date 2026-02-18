@@ -252,6 +252,11 @@ h1 {
   border: 1px solid #023b48;
   color: #ffffff;
 }
+.about_section img {
+  border: 8px solid #ffffff;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
 
 .about_section .detail-box a:hover {
   background-color: transparent;
