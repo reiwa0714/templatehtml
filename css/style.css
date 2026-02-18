@@ -370,7 +370,7 @@ h1 {
 .buy_section {
   text-align: center;
 }
-
+.buy_section { background-image: none !important; background-color: #252525; }
 .buy_section p {
   margin: 25px 0;
 }
