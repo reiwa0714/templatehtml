@@ -183,11 +183,7 @@ h1 {
   letter-spacing: 1px;
   text-transform: uppercase;
 }
-.slider_detail-box p {
-  color: #f6f8f7;
-  margin-top: 45px;
-  margin-bottom: 40px;
-}
+.slider_detail-box p { font-size: 1.1rem; color: #ffffff; }
 
 .slider_detail-box .btn-box .btn-1 { border-radius: 25px !important; transition: 0.3s; }
 
