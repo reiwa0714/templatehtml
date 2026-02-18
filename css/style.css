@@ -186,10 +186,7 @@ a:focus {
 
 .slider_detail-box .btn-box .btn-1 { border-radius: 25px !important; transition: 0.3s; }
 
-.slider_detail-box .btn-box .btn-1:hover {
-  background-color: transparent;
-  color: #023b48;
-}
+.slider_detail-box .btn-box .btn-1:hover { background-color: #d66a1d !important; }
 
 .slider_detail-box .btn-box .btn-2 {
   display: inline-block;
@@ -202,6 +199,7 @@ a:focus {
 .slider_detail-box .btn-box .btn-2:hover {
   background-color: transparent;
   color: #ffffff;
+  
 }
 
 .slider_img-box {
