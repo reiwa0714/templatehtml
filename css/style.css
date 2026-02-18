@@ -560,7 +560,7 @@ input:focus { border: 2px solid #f07b26 !important; outline: none; }
   transition: 0.5s ease;
   border-radius: 15px;
 }
-
+.footer_section p { letter-spacing: 1px; font-weight: 300; }
 .gallery-section img:hover {
   filter: brightness(1.1);
   transform: scale(1.05);
