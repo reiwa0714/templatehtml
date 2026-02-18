@@ -316,9 +316,7 @@ h1 {
   color: #023b48;
 }
 
-.gallery-section {
-  background-color: #0dc3ff;
-}
+.gallery-section img { filter: brightness(0.9); transition: 0.5s; }
 
 .gallery-section .container {
   display: -webkit-box;
