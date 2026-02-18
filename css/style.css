@@ -58,6 +58,7 @@ p {
 .hero_area.sub_pages {
   height: auto;
 }
+.hero_area { border-bottom: 5px solid #f07b26; }
 
 .header_section {
   background-color: #f6f8f7;
