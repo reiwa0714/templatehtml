@@ -1,5 +1,10 @@
 body { background-color: #008cff !important; }
 
+p {
+  color: #333333 !important;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
 .layout_padding {
   padding: 75px 0;
 }
