@@ -301,9 +301,7 @@ h1 {
   margin-top: 25px;
 }
 
-.service_section .detail_box h6 {
-  font-weight: bold;
-}
+.service_section h6 { color: #f07b26; font-weight: bold; }
 
 .service_section a {
   display: inline-block;
