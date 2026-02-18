@@ -316,7 +316,9 @@ h1 {
   color: #023b48;
 }
 
-.gallery-section img { filter: brightness(0.9); transition: 0.5s; }
+.gallery-section {
+  .gallery-section img { filter: brightness(0.9); transition: 0.5s; }
+}
 
 .gallery-section .container {
   display: -webkit-box;
@@ -551,6 +553,17 @@ h1 {
 
 .footer_section a {
   color: #292929;
+}
+.gallery-section img {
+  filter: brightness(0.9);
+  transition: 0.5s ease;
+  border-radius: 15px;
+}
+
+.gallery-section img:hover {
+  filter: brightness(1.1);
+  transform: scale(1.05);
+  cursor: pointer;
 }
 
 /* end footer section*/
